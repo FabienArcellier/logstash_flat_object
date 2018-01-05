@@ -1,1 +1,2 @@
+{ "title": "titre", "user": "fabien", "context": { "request": "titre", "uri": "http://www.google.fr", "params":{"val1": "value"}}}
 { "title": "titre", "context": { "request": "titre", "uri": "http://www.google.fr", "params":{"val1": "value"}}}
